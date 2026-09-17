@@ -45,32 +45,30 @@ focus on Data Science, Machine Learning and AI.
 
 ### 🎓 Student Management System
 
-A Python application developed progressively through four versions,
-with each version focusing on improving software design and maintainability.
+A Python-based application developed through four versions to progressively
+improve software design, maintainability, persistence, and database handling.
 
-**V1** — Basic CRUD with Lists & OOP  
-**V2** — Encapsulation, Dictionary Storage & Custom Exceptions  
-**V3** — JSON Persistence & Separation of Responsibilities  
-**V4** — SQLite Persistence & DB-API 2.0
+| Version | Focus |
+|---|---|
+| **V1** | CRUD, Lists & OOP |
+| **V2** | Encapsulation, Dictionary Storage & Custom Exceptions |
+| **V3** | JSON Persistence & Separation of Responsibilities |
+| **V4** | SQLite Persistence & DB-API 2.0 |
 
-🔗 [View Repository](#)
+**Tech:** Python · OOP · SQLite · DB-API 2.0 · JSON
+
+🔗 [View Project](https://github.com/kommeranithinreddy/student-management-system-python)
 
 ---
 
-## 🐍 Python Learning Journey
+### 🐍 Python Learning Journey
 
-A collection of Python practice, exercises and projects covering:
+A collection of Python practice, experiments, exercises, and projects
+documenting my progression from Python fundamentals to advanced concepts.
 
-- Python Core
-- Object-Oriented Programming
-- Advanced Python
-- Standard Library
-- File Handling
-- Collections & Itertools
-- SQLite & DB-API 2.0
-- NumPy
-- Pandas
-- Matplotlib
+**Topics:** Python Core · OOP · Advanced Python · Standard Library · SQLite · NumPy · Pandas · Matplotlib
+
+🔗 [View Repository](https://github.com/kommeranithinreddy/python-learning-journey)
 
 ---
 
