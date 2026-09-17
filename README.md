@@ -33,11 +33,9 @@ focus on Data Science, Machine Learning and AI.
 
 ### Data & Visualization
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+  <strong>NumPy</strong> • <strong>Pandas</strong> • <strong>Matplotlib</strong>
 </p>
-
-**NumPy • Pandas • Matplotlib**
 
 ---
 
@@ -66,7 +64,7 @@ improve software design, maintainability, persistence, and database handling.
 A collection of Python practice, experiments, exercises, and projects
 documenting my progression from Python fundamentals to advanced concepts.
 
-**Topics:** Python Core · OOP · Advanced Python · Standard Library · SQLite · NumPy · Pandas · Matplotlib
+**Topics:** Python Core · OOP · Advanced Python · Standard Library · SQLite
 
 🔗 [View Repository](https://github.com/kommeranithinreddy/python-learning-journey)
 
