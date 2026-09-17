@@ -1,6 +1,8 @@
-# Hi 👋, I'm Nithin Reddy Kommera
+<h1 align="center">Hi 👋, I'm Nithin Reddy Kommera</h1>
 
-### Software Engineer | Python | SQL | Data & AI
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Software+Engineer;Python+Developer;SQL+%7C+Automation;Learning+Data+Science;Exploring+Machine+Learning+%26+AI" alt="Typing SVG" />
+</p>
 
 I'm a Software Engineer with a background in Computing & Design.
 
