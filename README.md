@@ -96,6 +96,24 @@ AI
 ---
 
 ## 📊 GitHub Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kommeranithinreddy/kommeranithinreddy/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kommeranithinreddy/kommeranithinreddy/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/kommeranithinreddy/kommeranithinreddy/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=kommeranithinreddy&show_icons=true&hide_border=true" />
 </p>
