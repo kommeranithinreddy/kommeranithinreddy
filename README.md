@@ -25,17 +25,41 @@ focus on Data Science, Machine Learning and AI.
 
 ## 🛠️ Tech Stack
 
-### Programming & Databases
+### 💻 Programming & Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css&perline=6" alt="Python, HTML, CSS" />
 </p>
 
-### Data & Visualization
+### 🗄️ Databases & Backend
 
-<p align="center">
-  <strong>NumPy</strong> • <strong>Pandas</strong> • <strong>Matplotlib</strong>
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,fastapi&perline=6" alt="SQLite, PostgreSQL, FastAPI" />
 </p>
+
+**SQL** · Database querying and fundamentals
+
+### 📊 Data Science & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&perline=6" alt="NumPy, Pandas, Matplotlib" />
+</p>
+
+**Focus Areas:** Exploratory Data Analysis (EDA) · Statistics · Data Visualization
+
+### 🛠️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter&perline=6" alt="Git, GitHub, VS Code, PyCharm, Jupyter" />
+</p>
+
+### ⚙️ Automation & Productivity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions&perline=6" alt="GitHub Actions" />
+</p>
+
+**Tools:** Python Automation · GitHub Actions
 
 ---
 
