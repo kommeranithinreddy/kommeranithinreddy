@@ -13,13 +13,15 @@ focus on Data Science, Machine Learning and AI.
 
 ## 👨‍💻 About Me
 
-- 💼 Software Engineer
-- 🐍 Building a strong foundation in Python
-- 🗄️ Learning SQL and database fundamentals
-- 📊 Currently working with NumPy, Pandas and Matplotlib
-- 📈 Learning Statistics for Data Science
-- 🤖 Exploring Machine Learning and AI step by step
-- 🎓 B.Sc. in Computing & Design — BITS Pilani
+I'm a Software Engineer at HCLTech, with a growing focus on Python development, data analysis, and database technologies.
+
+- 💻 **Programming:** Building practical applications with Python and exploring SQL and database.
+- 📊 **Data Science:** Learning NumPy, Pandas, Matplotlib, Statistics, and Exploratory Data Analysis (EDA).
+- 🧩 **Projects:** Applying my knowledge through Python applications, database integration, and automation projects.
+- 🎓 **Education:** B.Sc. in Computing & Design — BITS Pilani.
+- 🎯 **Career Direction:** Working toward a transition into Data Science, with Machine Learning and AI as longer-term goals.
+
+I believe in learning by building, strengthening fundamentals, and improving through consistent practice.
 
 ---
 
@@ -36,8 +38,6 @@ focus on Data Science, Machine Learning and AI.
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,postgres,fastapi&perline=6" alt="SQLite, PostgreSQL, FastAPI" />
 </p>
-
-**SQL** · Database querying and fundamentals
 
 ### 📊 Data Science & Analytics
 
