@@ -132,17 +132,6 @@ A collection of practical Python programs, exercises, and projects covering prog
 
 ---
 
-### 🐍 Python Learning Journey
-
-A collection of Python practice, experiments, exercises, and projects
-documenting my progression from Python fundamentals to advanced concepts.
-
-**Topics:** Python Core · OOP · Advanced Python · Standard Library · SQLite
-
-🔗 [View Repository](https://github.com/kommeranithinreddy/python-learning-journey)
-
----
-
 ## 📚 Current Learning Path
 
 ```text
