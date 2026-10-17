@@ -134,22 +134,16 @@ A collection of practical Python programs, exercises, and projects covering prog
 
 ## 📚 Current Learning Path
 
-```text
-Python
-   ↓
-SQL & Databases
-   ↓
-NumPy → Pandas → Matplotlib
-   ↓
-Statistics
-   ↓
-Data Analysis
-   ↓
-Machine Learning
-   ↓
-AI
+| Stage | Focus Areas |
+|---|---|
+| 01 | **Python** — Programming fundamentals and problem-solving |
+| 02 | **SQL & Databases** — Querying, data retrieval, and database fundamentals |
+| 03 | **Data Analysis** — NumPy, Pandas, and Matplotlib |
+| 04 | **Statistics** — Probability and statistical foundations |
+| 05 | **Exploratory Data Analysis** — Understanding patterns, distributions, and relationships in data |
+| 06 | **Machine Learning** — Learning algorithms, model training, and evaluation |
 
-```
+**Long-term Direction:** Data Science → Machine Learning → Artificial Intelligence
 
 ---
 
