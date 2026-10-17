@@ -42,10 +42,18 @@ focus on Data Science, Machine Learning and AI.
 ### 📊 Data Science & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&perline=6" alt="NumPy, Pandas, Matplotlib" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
 </p>
 
-**Focus Areas:** Exploratory Data Analysis (EDA) · Statistics · Data Visualization
+**Focus Areas**
+
+<p>
+  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-2E8B57?style=flat-square" alt="Exploratory Data Analysis" />
+  <img src="https://img.shields.io/badge/Statistics-4682B4?style=flat-square" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Data_Visualization-8A2BE2?style=flat-square" alt="Data Visualization" />
+</p>
 
 ### 🛠️ Development Tools
 
