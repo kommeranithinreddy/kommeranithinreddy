@@ -172,5 +172,19 @@ A collection of practical Python programs, exercises, and projects covering prog
 
 ---
 
-## 🔗 Connect With Me
-<p> <a href="https://github.com/kommeranithinreddy"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:kommeranithinreddy@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> 
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nithin-reddy-kommera-2280a129b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.credential.net/profile/kommeranithinreddy396499/wallet" target="_blank">
+    <img src="https://img.shields.io/badge/Accredible-View_Credentials-4A6CF7?style=for-the-badge&logo=acclaim&logoColor=white" alt="Accredible" />
+  </a>
+  <a href="https://www.credly.com/users/kommera-nithin-reddy" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-View_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+  <a href="mailto:kommeranithinreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
