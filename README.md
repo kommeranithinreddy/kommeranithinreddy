@@ -75,19 +75,60 @@ focus on Data Science, Machine Learning and AI.
 
 ### 🎓 Student Management System
 
-A Python-based application developed through four versions to progressively
-improve software design, maintainability, persistence, and database handling.
+A Python application developed across four versions, demonstrating progressive improvements in software design, data persistence, and database integration.
 
-| Version | Focus |
-|---|---|
-| **V1** | CRUD, Lists & OOP |
-| **V2** | Encapsulation, Dictionary Storage & Custom Exceptions |
-| **V3** | JSON Persistence & Separation of Responsibilities |
-| **V4** | SQLite Persistence & DB-API 2.0 |
+| Version | Key Improvements |
+|:---:|---|
+| V1 | CRUD Operations, Lists & OOP |
+| V2 | Encapsulation, Dictionary Storage & Custom Exceptions |
+| V3 | JSON Persistence & Separation of Responsibilities |
+| V4 | SQLite Integration & DB-API 2.0 |
 
-**Tech:** Python · OOP · SQLite · DB-API 2.0 · JSON
+**Technologies:** Python · OOP · JSON · SQLite · DB-API 2.0
 
-🔗 [View Project](https://github.com/kommeranithinreddy/student-management-system-python)
+🔗 [View Repository](https://github.com/kommeranithinreddy/student-management-system-python)
+
+---
+
+### 📧 Daily Motivation Email Automation
+
+A Python automation project that delivers daily motivational emails using configurable content, HTML email templates, and scheduled execution.
+
+**Highlights**
+- JSON-based motivational content management
+- HTML email templates with plain-text alternatives
+- Email delivery through Gmail
+- Scheduled execution using GitHub Actions
+
+**Technologies:** Python · JSON · SMTP · HTML · GitHub Actions
+
+🔗 [View Repository](https://github.com/kommeranithinreddy/daily-motivation-email-automation)
+
+---
+
+### 📊 Data Science
+
+A dedicated repository for practical work in Data Science, covering foundational concepts and hands-on exercises.
+
+**Focus Areas**
+- NumPy and Pandas
+- Exploratory Data Analysis (EDA)
+- Statistics
+- Data Visualization with Matplotlib
+
+**Technologies:** Python · NumPy · Pandas · Matplotlib
+
+🔗 [View Repository](https://github.com/kommeranithinreddy/data-science)
+
+---
+
+### 🐍 Python Projects
+
+A collection of practical Python programs, exercises, and projects covering programming fundamentals, object-oriented programming, standard libraries, and database operations.
+
+**Topics:** Python Fundamentals · OOP · Standard Library · SQLite
+
+🔗 [View Repository](https://github.com/kommeranithinreddy/python-learning-journey)
 
 ---
 
