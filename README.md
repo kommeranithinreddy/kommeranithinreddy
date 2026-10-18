@@ -4,16 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Software+Engineer;Python+Developer;SQL+%7C+Automation;Learning+Data+Science;Exploring+Machine+Learning+%26+AI" alt="Typing SVG" />
 </p>
 
-I'm a Software Engineer with a background in Computing & Design.
-
-Currently strengthening my Python and data foundations, with a long-term
-focus on Data Science, Machine Learning and AI.
+Software Engineer at HCLTech | Python & SQL | Exploring Data Science and Machine Learning
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer at HCLTech, with a growing focus on Python development, data analysis, and database technologies.
+My technical focus includes Python development, SQL, database technologies, and data analysis.
 
 - 💻 **Programming:** Building practical applications with Python and exploring SQL and database.
 - 📊 **Data Science:** Learning NumPy, Pandas, Matplotlib, Statistics, and Exploratory Data Analysis (EDA).
