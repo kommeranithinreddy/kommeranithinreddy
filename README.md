@@ -1,24 +1,27 @@
 <h1 align="center">Hi 👋, I'm Nithin Reddy Kommera</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Software+Engineer;Python+Developer;SQL+%7C+Automation;Learning+Data+Science;Exploring+Machine+Learning+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Software+Engineer;Python+Developer;SQL+%7C+Automation;Learning+Agentic+AI;Exploring+LLMs+%26+AI+Agents" alt="Typing SVG" />
 </p>
 
-Software Engineer at HCLTech | Python & SQL | Exploring Data Science and Machine Learning
+<p align="center">
+  Software Engineer at HCLTech | Python & SQL | Exploring Agentic AI
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-My technical focus includes Python development, SQL, database technologies, and data analysis.
+I'm a Software Engineer at HCLTech with a technical focus on Python development, SQL, databases, and automation. I'm currently expanding my skills into Agentic AI and learning how to build intelligent applications that can reason, use tools, and execute tasks.
 
-- 💻 **Programming:** Building practical applications with Python and exploring SQL and database.
-- 📊 **Data Science:** Learning NumPy, Pandas, Matplotlib, Statistics, and Exploratory Data Analysis (EDA).
-- 🧩 **Projects:** Applying my knowledge through Python applications, database integration, and automation projects.
-- 🎓 **Education:** B.Sc. in Computing & Design — BITS Pilani.
-- 🎯 **Career Direction:** Working toward a transition into Data Science, with Machine Learning and AI as longer-term goals.
+* 💻 **Programming:** Building practical applications with Python, object-oriented programming, and database integration.
+* 🤖 **Agentic AI:** Learning how to build AI agents, work with large language models (LLMs), and develop applications that use tools to accomplish tasks.
+* ⚙️ **Automation:** Creating Python automation solutions and exploring ways to make workflows more efficient.
+* 🗄️ **Databases:** Working with SQL, SQLite, and PostgreSQL.
+* 🎓 **Education:** B.Sc. in Computing & Design — BITS Pilani.
+* 🎯 **Career Direction:** Building practical skills in Agentic AI and AI application development.
 
-I believe in learning by building, strengthening fundamentals, and improving through consistent practice.
+I believe in learning by building, understanding the fundamentals, and developing projects that solve real problems.
 
 ---
 
@@ -36,26 +39,29 @@ I believe in learning by building, strengthening fundamentals, and improving thr
   <img src="https://skillicons.dev/icons?i=sqlite,postgres,fastapi&perline=6" alt="SQLite, PostgreSQL, FastAPI" />
 </p>
 
-### 📊 Data Science & Analytics
+### 🤖 AI & Agentic AI
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Learning-7C3AED?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/LLMs-Learning-2563EB?style=for-the-badge" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/AI_Agents-Exploring-0F766E?style=for-the-badge" alt="AI Agents" />
 </p>
 
-**Focus Areas**
+**Current Focus Areas**
 
 <p>
-  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-2E8B57?style=flat-square" alt="Exploratory Data Analysis" />
-  <img src="https://img.shields.io/badge/Statistics-4682B4?style=flat-square" alt="Statistics" />
-  <img src="https://img.shields.io/badge/Data_Visualization-8A2BE2?style=flat-square" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/LLM_Fundamentals-4682B4?style=flat-square" alt="LLM Fundamentals" />
+  <img src="https://img.shields.io/badge/Tool_Use-2E8B57?style=flat-square" alt="Tool Use" />
+  <img src="https://img.shields.io/badge/Agent_Workflows-8A2BE2?style=flat-square" alt="Agent Workflows" />
+  <img src="https://img.shields.io/badge/AI_Application_Development-FF8C00?style=flat-square" alt="AI Application Development" />
 </p>
+
+*These are current learning areas, not claims of production-level expertise.*
 
 ### 🛠️ Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter&perline=6" alt="Git, GitHub, VS Code, PyCharm, Jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&perline=6" alt="Git, GitHub, VS Code, PyCharm" />
 </p>
 
 ### ⚙️ Automation & Productivity
@@ -64,7 +70,7 @@ I believe in learning by building, strengthening fundamentals, and improving thr
   <img src="https://skillicons.dev/icons?i=githubactions&perline=6" alt="GitHub Actions" />
 </p>
 
-**Tools:** Python Automation · GitHub Actions
+**Tools:** Python Automation · GitHub Actions · Git · GitHub
 
 ---
 
@@ -74,12 +80,12 @@ I believe in learning by building, strengthening fundamentals, and improving thr
 
 A Python application developed across four versions, demonstrating progressive improvements in software design, data persistence, and database integration.
 
-| Version | Key Improvements |
-|:---:|---|
-| V1 | CRUD Operations, Lists & OOP |
-| V2 | Encapsulation, Dictionary Storage & Custom Exceptions |
-| V3 | JSON Persistence & Separation of Responsibilities |
-| V4 | SQLite Integration & DB-API 2.0 |
+| Version | Key Improvements                                      |
+| :-----: | ----------------------------------------------------- |
+|    V1   | CRUD Operations, Lists & OOP                          |
+|    V2   | Encapsulation, Dictionary Storage & Custom Exceptions |
+|    V3   | JSON Persistence & Separation of Responsibilities     |
+|    V4   | SQLite Integration & DB-API 2.0                       |
 
 **Technologies:** Python · OOP · JSON · SQLite · DB-API 2.0
 
@@ -92,30 +98,15 @@ A Python application developed across four versions, demonstrating progressive i
 A Python automation project that delivers daily motivational emails using configurable content, HTML email templates, and scheduled execution.
 
 **Highlights**
-- JSON-based motivational content management
-- HTML email templates with plain-text alternatives
-- Email delivery through Gmail
-- Scheduled execution using GitHub Actions
+
+* JSON-based motivational content management
+* HTML email templates with plain-text alternatives
+* Email delivery through Gmail
+* Scheduled execution using GitHub Actions
 
 **Technologies:** Python · JSON · SMTP · HTML · GitHub Actions
 
 🔗 [View Repository](https://github.com/kommeranithinreddy/daily-motivation-email-automation)
-
----
-
-### 📊 Data Science
-
-A dedicated repository for practical work in Data Science, covering foundational concepts and hands-on exercises.
-
-**Focus Areas**
-- NumPy and Pandas
-- Exploratory Data Analysis (EDA)
-- Statistics
-- Data Visualization with Matplotlib
-
-**Technologies:** Python · NumPy · Pandas · Matplotlib
-
-🔗 [View Repository](https://github.com/kommeranithinreddy/data-science)
 
 ---
 
@@ -126,21 +117,6 @@ A collection of practical Python programs, exercises, and projects covering prog
 **Topics:** Python Fundamentals · OOP · Standard Library · SQLite
 
 🔗 [View Repository](https://github.com/kommeranithinreddy/python-learning-journey)
-
----
-
-## 📚 Current Learning Path
-
-| Stage | Focus Areas |
-|---|---|
-| 01 | **Python** — Programming fundamentals and problem-solving |
-| 02 | **SQL & Databases** — Querying, data retrieval, and database fundamentals |
-| 03 | **Data Analysis** — NumPy, Pandas, and Matplotlib |
-| 04 | **Statistics** — Probability and statistical foundations |
-| 05 | **Exploratory Data Analysis** — Understanding patterns, distributions, and relationships in data |
-| 06 | **Machine Learning** — Learning algorithms, model training, and evaluation |
-
-**Long-term Direction:** Data Science → Machine Learning → Artificial Intelligence
 
 ---
 
@@ -164,7 +140,7 @@ A collection of practical Python programs, exercises, and projects covering prog
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kommeranithinreddy&show_icons=true&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kommeranithinreddy&show_icons=true&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 ---
